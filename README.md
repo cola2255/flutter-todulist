@@ -1,4 +1,4 @@
-# my_app
+# my_app_todo_list
 
 A new Flutter project.
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Run
+flutter clean                                                                          ✔  20s   base   3.0.0   01:56:43 
+flutter pub get                  
