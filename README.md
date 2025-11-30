@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Run
-flutter clean                                                                          ✔  20s   base   3.0.0   01:56:43 
-flutter pub get                  
+flutter clean
+flutter pub get  
